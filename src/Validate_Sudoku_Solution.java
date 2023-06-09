@@ -1,6 +1,6 @@
 //--------------------------------------------------------------------------------------
 //--
-//--    Matthew Covone, IST 242 Section 001 [Fall 2022 Semester]
+//--    Created by: Matthew Covone (Sometime in Fall 2022)
 //--
 //--    The purpose of this program is to see if a certain sudoku solution is valid.
 //--    In order for a sudoku solution to be valid, it needs to run through and pass
@@ -8,7 +8,7 @@
 //--    the rows, columns, and 3x3 sections.
 //--------------------------------------------------------------------------------------
 
-public class IST242_ValidateSudoku
+public class Validate_Sudoku_Solution
 {
 
     /**
